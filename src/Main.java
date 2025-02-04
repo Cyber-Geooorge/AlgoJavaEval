@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
 
         int[] exemple1 = {1, 2, 4, 5, 6 };
         int[] exemple2 = {2, 3, 1, 5};
@@ -16,5 +17,7 @@ public class Main {
 
         System.out.println("Test 1: " + NbrManquant.trouverNbrManquant(test1));
         System.out.println("Test 2: " + NbrManquant.trouverNbrManquant(test2));
+
+>>>>>>> origin/main
     }
 }
